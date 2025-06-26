@@ -74,7 +74,7 @@ async function startBot() {
 async function getPhoneNumber() {
   // Dalam implementasi nyata, gunakan readline atau library input lainnya
   // Untuk demo, return nomor contoh
-  return "628123456789" // Ganti dengan nomor Anda
+  return "6218141833" // Ganti dengan nomor Anda
 }
 
 // Fungsi untuk menangani pesan masuk
