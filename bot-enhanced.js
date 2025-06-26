@@ -43,7 +43,7 @@ async function startEnhancedBot() {
     }
 
     if (!sock.authState.creds.registered) {
-      const phoneNumber = "628123456789" // Ganti dengan nomor Anda
+      const phoneNumber = "6289518141833" // Ganti dengan nomor Anda
       const code = await sock.requestPairingCode(phoneNumber)
       console.log(`🔑 Pairing Code: ${code}`)
     }
